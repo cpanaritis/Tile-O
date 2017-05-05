@@ -1,5 +1,5 @@
-# Group12
-
+# ECSE 223 - Tile-O
+Board game created using java for Model-Based Programming project at McGill<br/>
 - [x] **Part 1 : Domain Model - 4% - Jan 30**  
   - [x] GitHub account names submission (5)  
   - [x] Correctness of domain model (80)  
